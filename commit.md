@@ -1,1 +1,1 @@
-3 Vue router APIs and components, Vuex APIs created and updated on 6/28/2019
+14 Vue router APIs and components, Vuex APIs created and updated on 8/25/2019
